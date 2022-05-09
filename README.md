@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **lucasfaustman@gmail.com**
 
-- ⚡ Fun fact **I love Baseball!**
+- ⚡ Fun fact **I love Japanese Denim!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
