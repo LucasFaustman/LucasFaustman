@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
-<h3 align="center">A passionate full-stack developer from Vancouver, B.C Canada @100Devs</h3>
+<h3 align="center">A passionate Full-Stack Developer from Vancouver, B.C Canada @100Devs</h3>
 
 - 🔭 I’m currently working on [myPlayer.io](https://github.com/LucasFaustman/nba-Stat-Project)
 
