@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development!**
 
-- 👨‍💻 All of my projects are available at [lucasfaustman.com](lucasfaustman.com)
+- 👨‍💻 All of my projects are available at lucasfaustman.com
 
 - 📫 How to reach me **lucasfaustman@gmail.com**
 
