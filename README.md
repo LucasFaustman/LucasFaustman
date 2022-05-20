@@ -1,4 +1,4 @@
-![Lucas Faustman](https://user-images.githubusercontent.com/99927513/169621954-73d951ed-0e7e-40e4-8183-46450fab4593.png)
+![Lucas Faustman](https://user-images.githubusercontent.com/99927513/169621954-73d951ed-0e7e-40e4-8183-46450fab4593.png width="100%" height='50%') 
 
 
 
