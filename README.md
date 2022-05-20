@@ -1,3 +1,6 @@
+![Lucas Faustman](https://user-images.githubusercontent.com/99927513/169621954-73d951ed-0e7e-40e4-8183-46450fab4593.png)
+
+
 
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
 <h3 align="center">A passionate Full-Stack Developer from Vancouver, B.C Canada @100Devs</h3>
