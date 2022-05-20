@@ -1,5 +1,4 @@
-![Lucas Faustman](https://user-images.githubusercontent.com/99927513/169622224-229079e8-6940-4299-a937-db15ebff7645.png)(width='100%')
-
+<img src="https://i.imgur.com/tCI32rh.png" width="100%">
 
 
 
