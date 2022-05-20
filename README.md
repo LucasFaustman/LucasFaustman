@@ -1,4 +1,5 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/uKSfiCA" data-context="false" ><a href="//imgur.com/a/uKSfiCA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Lucas Faustman](https://user-images.githubusercontent.com/99927513/169622224-229079e8-6940-4299-a937-db15ebff7645.png)(width='100%')
+
 
 
 
