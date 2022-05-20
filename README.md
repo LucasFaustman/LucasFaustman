@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/uKSfiCA.jpg" width="100%"> 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/uKSfiCA" data-context="false" ><a href="//imgur.com/a/uKSfiCA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
