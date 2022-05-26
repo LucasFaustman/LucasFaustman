@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lucasfaustman@gmail.com**
 
-- ⚡ Fun fact **I love Japanese Denim!**
+- ⚡ Fun fact **Hockey! (Go Canucks Go!)**
 
 
 <h3 align="center">Connect with me:</h3>
