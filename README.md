@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lucasfaustman@gmail.com**
 
-- ⚡ Fun fact **Hockey! (Go Canucks Go!)**
+- ⚡ Fun fact ** I Love Hockey! (Go Canucks Go!)**
 
 
 <h3 align="center">Connect with me:</h3>
