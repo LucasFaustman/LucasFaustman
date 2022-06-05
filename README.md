@@ -95,10 +95,10 @@
 				<br>
 				<br>
 				<p>
-					<a href="https://formulaone-first-api.herokuapp.com/" target="_blank">
+					<a href="https://github.com/LucasFaustman/formulaone-api/blob/main/README.md" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="file:///Users/lucasfaustman/Desktop/client-side-code/index.html" target="_blank">
+					<a href="https://formulaone-first-api.herokuapp.com/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 					</a>	
 				</p>
