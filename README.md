@@ -86,6 +86,26 @@
 				<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio site to show off projects and for interested clients to reach out to me!</p>
 			</div>
 		</td>
+								   <td width="50%">
+			<h3 align="center" color="white">Formula One API</h2>
+			<div align="center" >  
+				<a href='https://formulaone-first-api.herokuapp.com/'>
+					<img src="https://media.giphy.com/media/81yr00KovskbnGT8IG/giphy.gif" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/LucasFaustman/formulaone-api/blob/main/README.md" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="file:///Users/lucasfaustman/Desktop/client-side-code/index.html" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
+					</a>	
+				</p>
+				<p><strong>JavaScript, Express</strong> - API set up for Formula 1 fans to get data about their favorite drivers!</p>
+			</div>
+		</td>
+								   </tr>							   
 	</table>
 </div>
 <br />
