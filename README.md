@@ -32,7 +32,7 @@
 			<td width="50%">
 				<h3 align="center" color="white">myPlayer.io - Get NBA Player Season Averages</h2>
 				<div align="center" >  
-					<a href=https://myplayerio.netlify.app/'>
+					<a href=https://myplayerio.netlify.app/>
 						<img src="https://media.giphy.com/media/e4u8OG0PzND3cvaDoL/giphy.gif" alt="myplayerio page overview" height="100%" />
 					</a>
 					<br>
