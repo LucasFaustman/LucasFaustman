@@ -105,23 +105,30 @@
 				<p><strong>JavaScript, Express</strong> - API set up for Formula 1 fans to get data about their favorite drivers!</p>
 			</div>
 		</td>
-								   </tr>							   
+								   </tr>	
+								   <tr>
+			<td width="50%">
+				<h3 align="center" color="white">Vancouver StarGazers Society APOD Web App with NASA API Integration - Get the NASA APOD and historical APOD's</h2>
+				<div align="center" >  
+					<a href=https://vancouver-stargazers-apod.netlify.app//>
+						<img src="https://media.giphy.com/media/cpxKbJUSSG1nPel0bR/giphy.gif" alt="Vancouver StarGazers Society APOD Web App with NASA API integration overview" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/LucasFaustman/vancouver-stargazers" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://vancouver-stargazers-apod.netlify.app/" target="_blank"> 
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Website for local Vancouver stargazers to get the NASA APOD.</p>
+				</div>
+			</td>
+			
 	</table>
 </div>
 <br />
 <br />
 
-<!--
-**LucasFaustman/lucasfaustman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
