@@ -127,7 +127,7 @@
 				</div>
 			</td>
 			
-	</table>
+	
 </div>
 <br />
 <br />
