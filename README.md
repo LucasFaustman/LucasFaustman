@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
 <h3 align="center">A passionate Full-Stack Developer from Vancouver, B.C Canada @100Devs</h3>
 
-- 🔭 I’m currently working on Node and Express
+- 🔭 I’m currently working on My Small CRM, a CRM made for sole proprietors. 
 
-- 🌱 I’m currently learning **Full-Stack Web Development!**
+- 🌱 I’m currently learning **Express, EJS, and React.**
 
 - 👨‍💻 All of my projects are available at <a href= 'https://lucasfaustman.com'>lucasfaustman.com</a>
 
