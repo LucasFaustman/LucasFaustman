@@ -87,22 +87,22 @@
 			</div>
 		</td>
 								   <td width="50%">
-			<h3 align="center" color="white">Formula One API</h2>
+			<h3 align="center" color="white">Vancouver Life Hack Voter</h2>
 			<div align="center" >  
 				<a href='https://formulaone-first-api.herokuapp.com/'>
-					<img src="https://media.giphy.com/media/81yr00KovskbnGT8IG/giphy.gif" height="100%" />
+					<img src="https://media.giphy.com/media/yNwgzzXTypcuFP1uGE/giphy.gif" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/LucasFaustman/formulaone-api/blob/main/README.md" target="_blank">
+					<a href="https://github.com/LucasFaustman/life-hacks-project" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://formulaone-first-api.herokuapp.com/" target="_blank">
+					<a href="https://vancouver-life-hacks-voter.herokuapp.com/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, Express</strong> - API set up for Formula 1 fans to get data about their favorite drivers!</p>
+				<p><strong>JavaScript, Express, EJS</strong> - Life Hack Voter created for Vancourites to vote on their favourite life hacks.</p>
 			</div>
 		</td>
 								   </tr>	
