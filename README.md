@@ -30,6 +30,25 @@
 	<table>
 		<tr>
 			<td width="50%">
+				<h3 align="center" color="white">My Small CRM - The CRM for Very Small Businesses</h2>
+				<div align="center" >  
+					<a href=https://my-small-crm.herokuapp.com//>
+						<img src="https://media.giphy.com/media/gQ2QtVKxTjHQZWTxBT/giphy.gif" alt="mysmallcrm overview" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/LucasFaustman/my-small-crm/tree/main" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://my-small-crm.herokuapp.com" target="_blank"> 
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
+						</a>	
+					</p>
+					<p><strong>Node, Express, EJS, Javascript</strong> - The Customer Relationship Management tool for Small Businesses. Users can keep track of contacts, companies, upcoming and completed tasks, as well as projected revenue all in one platform. </p>
+				</div>
+			</td>
+			<td width="50%">
 				<h3 align="center" color="white">myPlayer.io - Get NBA Player Season Averages</h2>
 				<div align="center" >  
 					<a href=https://myplayerio.netlify.app/>
@@ -48,24 +67,7 @@
 					<p><strong>JavaScript, CSS3, HTML5</strong> - Website for NBA fans to look up season averages about their favorite players, and also view a short player description.</p>
 				</div>
 			</td>
-			<td width="50%">
-				<h3 align="center" color="white">Freelance Makeup Artist Website</h2>
-				<div align="center" >  
-					<a href='https://rmkbeauty.netlify.app/'>
-						<img src="https://media.giphy.com/media/4kGodwqQOQZUT2b2FF/giphy.gif" alt="Local freelance makeup artist website overview" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/LucasFaustman/local-makeup-artist-website" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://rmkbeauty.netlify.app/" target="_blank"> 
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
-						</a>	
-					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple static website for a local Vancouver freelance makeup artist to win new makeup clients.</p>
-				</div>
+			</tr>
 	<tr>
 		<td width="50%">
 			<h3 align="center" color="white">My Personal Portfolio</h2>
@@ -126,6 +128,26 @@
 					<p><strong>JavaScript, CSS3, HTML5</strong> - Website for local Vancouver stargazers to get the NASA APOD.</p>
 				</div>
 			</td>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">Freelance Makeup Artist Website</h2>
+				<div align="center" >  
+					<a href='https://rmkbeauty.netlify.app/'>
+						<img src="https://media.giphy.com/media/4kGodwqQOQZUT2b2FF/giphy.gif" alt="Local freelance makeup artist website overview" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/LucasFaustman/local-makeup-artist-website" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://rmkbeauty.netlify.app/" target="_blank"> 
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
+						</a>	
+					</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple static website for a local Vancouver freelance makeup artist to win new makeup clients.</p>
+				</div>
+				</td>
 			
 	
 </div>
