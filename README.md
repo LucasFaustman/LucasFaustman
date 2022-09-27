@@ -41,7 +41,7 @@
 						<a href="https://github.com/LucasFaustman/my-small-crm/tree/main" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://my-small-crm.herokuapp.com" target="_blank"> 
+						<a href="https://my-small-crm.herokuapp.com/landing" target="_blank"> 
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 						</a>	
 					</p>
