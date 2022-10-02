@@ -89,22 +89,22 @@
 			</div>
 		</td>
 								   <td width="50%">
-			<h3 align="center" color="white">Vancouver Life Hack Voter</h2>
+			<h3 align="center" color="white">Memeify - Interactive React App</h2>
 			<div align="center" >  
-				<a href='https://formulaone-first-api.herokuapp.com/'>
-					<img src="https://media.giphy.com/media/yNwgzzXTypcuFP1uGE/giphy.gif" height="100%" />
+				<a href='https://lucas-memeify.netlify.app/'>
+					<img src="https://media.giphy.com/media/DFvpF6JHOl4WHcRd9y/giphy.gif" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/LucasFaustman/life-hacks-project" target="_blank">
+					<a href="https://github.com/LucasFaustman/memeify/tree/main" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://vancouver-life-hacks-voter.herokuapp.com/" target="_blank">
+					<a href="https://lucas-memeify.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, Express, EJS</strong> - Life Hack Voter created for Vancourites to vote on their favourite life hacks.</p>
+				<p><strong>HTML, CSS, React</strong> - Online meme generator to generate your favourite created memes.</p>
 			</div>
 		</td>
 								   </tr>	
