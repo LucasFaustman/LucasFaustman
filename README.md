@@ -70,22 +70,22 @@
 			</tr>
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">My Personal Portfolio</h2>
+			<h3 align="center" color="white">BillTrackr</h2>
 			<div align="center" >  
-				<a href='https://lucasfaustman.com'>
-					<img src="https://media.giphy.com/media/PkeZIrx9RkRPJtruZi/giphy.gif" height="100%" />
+				<a href='https://bill-trackr.herokuapp.com/'>
+					<img src="https://media.giphy.com/media/pl8FS8sf3Kb35v3LMA/giphy.gif" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/LucasFaustman/lucas-faustman-portfolio" target="_blank">
+					<a href="https://github.com/Ash1eyC0des/bill-trackr" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://lucasfaustman.com" target="_blank">
+					<a href="https://bill-trackr.herokuapp.com/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio site to show off projects and for interested clients to reach out to me!</p>
+				<p><strong>EJS, JavaScript, Node, Express, TailWindCSS</strong> - Full Stack Bill Tracking app for users to keep track of their paid and unpaid expenses.</p>
 			</div>
 		</td>
 								   <td width="50%">
@@ -104,7 +104,7 @@
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 					</a>	
 				</p>
-				<p><strong>HTML, CSS, React</strong> - Online meme generator to generate your favourite created memes.</p>
+				<p><strong>CSS & React</strong> - Online meme generator to generate your favourite created memes.</p>
 			</div>
 		</td>
 								   </tr>	
