@@ -89,22 +89,22 @@
 			</div>
 		</td>
 								   <td width="50%">
-			<h3 align="center" color="white">Memeify - Interactive React App</h2>
+			<h3 align="center" color="white">Travel Buddi - React Ecomerce Site</h2>
 			<div align="center" >  
-				<a href='https://lucas-memeify.netlify.app/'>
-					<img src="https://media.giphy.com/media/DFvpF6JHOl4WHcRd9y/giphy.gif" height="100%" />
+				<a href='https://travel-buddi.onrender.com'>
+					<img src="https://media.giphy.com/media/jxdgLNPxVaZlLSuL2L/giphy.gif" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/LucasFaustman/memeify/tree/main" target="_blank">
+					<a href="https://github.com/LucasFaustman/travel-buddi" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://lucas-memeify.netlify.app/" target="_blank">
+					<a href="https://travel-buddi.onrender.com" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 					</a>	
 				</p>
-				<p><strong>CSS & React</strong> - Online meme generator to generate your favourite created memes.</p>
+				<p><strong>CSS, BootStrap & React</strong> - Browse your favourite travel products on Travel Buddi! Add items to your cart and checkout using Stripe!</p>
 			</div>
 		</td>
 								   </tr>	
