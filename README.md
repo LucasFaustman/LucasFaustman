@@ -89,7 +89,7 @@
 			</div>
 		</td>
 								   <td width="50%">
-			<h3 align="center" color="white">Travel Buddi - React Ecomerce Site</h2>
+			<h3 align="center" color="white">Travel Buddi - React Ecommerce Site</h2>
 			<div align="center" >  
 				<a href='https://travel-buddi.onrender.com'>
 					<img src="https://media.giphy.com/media/jxdgLNPxVaZlLSuL2L/giphy.gif" height="100%" />
