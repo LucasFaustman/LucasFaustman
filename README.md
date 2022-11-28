@@ -32,7 +32,7 @@
 			<td width="50%">
 				<h3 align="center" color="white">My Small CRM - The CRM for Very Small Businesses</h2>
 				<div align="center" >  
-					<a href=https://my-small-crm.herokuapp.com//>
+					<a href=https://my-small-crm.onrender.com/landing/>
 						<img src="https://media.giphy.com/media/gQ2QtVKxTjHQZWTxBT/giphy.gif" alt="mysmallcrm overview" height="100%" />
 					</a>
 					<br>
@@ -41,7 +41,7 @@
 						<a href="https://github.com/LucasFaustman/my-small-crm/tree/main" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://my-small-crm.herokuapp.com/landing" target="_blank"> 
+						<a href="https://my-small-crm.onrender.com/landing" target="_blank"> 
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 						</a>	
 					</p>
