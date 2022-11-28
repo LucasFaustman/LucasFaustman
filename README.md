@@ -72,7 +72,7 @@
 		<td width="50%">
 			<h3 align="center" color="white">BillTrackr</h2>
 			<div align="center" >  
-				<a href='https://bill-trackr.herokuapp.com/'>
+				<a href='https://bill-trackr.up.railway.app/'>
 					<img src="https://media.giphy.com/media/pl8FS8sf3Kb35v3LMA/giphy.gif" height="100%" />
 				</a>
 				<br>
@@ -81,7 +81,7 @@
 					<a href="https://github.com/Ash1eyC0des/bill-trackr" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://bill-trackr.herokuapp.com/" target="_blank">
+					<a href="https://bill-trackr.up.railway.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 					</a>	
 				</p>
