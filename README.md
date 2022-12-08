@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on My Small CRM, a CRM made for sole proprietors. 
 
-- 🌱 I’m currently learning **React and Redux.**
-
 - 👨‍💻 All of my projects are available at <a href= 'https://lucasfaustman.com'>lucasfaustman.com</a>
 
 - 📫 How to reach me **lucasfaustman@gmail.com**
