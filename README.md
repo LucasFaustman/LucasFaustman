@@ -47,22 +47,22 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">myPlayer.io - Get NBA Player Season Averages</h2>
+				<h3 align="center" color="white">FreeWrites</h2>
 				<div align="center" >  
-					<a href=https://myplayerio.netlify.app/>
-						<img src="https://media.giphy.com/media/e4u8OG0PzND3cvaDoL/giphy.gif" alt="myplayerio page overview" height="100%" />
+					<a href=https://freewrites.onrender.com//>
+						<img src="https://media.giphy.com/media/HmZZ0B3Io0lIMLva17/giphy.gif" alt="freewrites overvoew" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/LucasFaustman/nba-Stat-Project" target="_blank">
+						<a href="https://github.com/LucasFaustman/freewrites" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://myplayerio.netlify.app/" target="_blank"> 
+						<a href="https://freewrites.onrender.com/" target="_blank"> 
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Website for NBA fans to look up season averages about their favorite players, and also view a short player description.</p>
+					<p><strong>Next.js, TypeScript, PostgreSQL via Supabase, Next UI</strong> - Website for writers to post articles they have written for free and connect with other writers across the globe!</p>
 				</div>
 			</td>
 			</tr>
