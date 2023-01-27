@@ -70,7 +70,7 @@
 		<td width="50%">
 			<h3 align="center" color="white">BillTrackr</h2>
 			<div align="center" >  
-				<a href='https://bill-trackr.up.railway.app/'>
+				<a href='https://bill-trackr.onrender.com/'>
 					<img src="https://media.giphy.com/media/pl8FS8sf3Kb35v3LMA/giphy.gif" height="100%" />
 				</a>
 				<br>
