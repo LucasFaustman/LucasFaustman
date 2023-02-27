@@ -50,7 +50,7 @@
 				<h3 align="center" color="white">BenchBanter</h2>
 				<div align="center" >  
 					<a href=https://benchbanter.onrender.com//>
-						<img src="https://media.giphy.com/media/HmZZ0B3Io0lIMLva17/giphy.gif" alt="benchbanter overview" height="100%" />
+						<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ0ZmE5YTg4MjVjZDEwODNhZGI5ZTkxYWRjOWIyNmMzZDFkODJhNiZjdD1n/yshTzIzJKPLBAoen8p/giphy.gif" alt="benchbanter overview" height="100%" />
 					</a>
 					<br>
 					<br>
