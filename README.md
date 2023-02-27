@@ -47,18 +47,18 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">FreeWrites</h2>
+				<h3 align="center" color="white">BenchBanter</h2>
 				<div align="center" >  
-					<a href=https://freewrites.onrender.com//>
-						<img src="https://media.giphy.com/media/HmZZ0B3Io0lIMLva17/giphy.gif" alt="freewrites overvoew" height="100%" />
+					<a href=https://benchbanter.onrender.com//>
+						<img src="https://media.giphy.com/media/HmZZ0B3Io0lIMLva17/giphy.gif" alt="benchbanter overview" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/LucasFaustman/freewrites" target="_blank">
+						<a href="https://github.com/LucasFaustman/benchbanter" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://freewrites.onrender.com/" target="_blank"> 
+						<a href="https://benchbanter.onrender.com/" target="_blank"> 
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 						</a>	
 					</p>
