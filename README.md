@@ -62,7 +62,9 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=A4C2A5"/>
 						</a>	
 					</p>
-					<p><strong>Next.js, TypeScript, PostgreSQL via Supabase, Next UI</strong> - Website for writers to post articles they have written for free and connect with other writers across the globe!</p>
+					<p><strong>Next.js, TypeScript, PostgreSQL via Supabase, Next UI</strong> - Join the Ultimate Sports Discussion Platform - Welcome to BenchBanter!
+
+</p>
 				</div>
 			</td>
 			</tr>
